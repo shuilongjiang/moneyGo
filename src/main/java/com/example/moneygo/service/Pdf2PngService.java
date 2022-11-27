@@ -19,6 +19,7 @@ public class Pdf2PngService {
          */
         private static boolean getLicense() {
             boolean result = false;
+
             try {
                 // 凭证
                 String license =
